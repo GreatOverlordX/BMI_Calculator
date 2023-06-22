@@ -46,12 +46,12 @@ const App = () => {
     <div
       className={`calculator`}
       style={{
-        height: '50vh',
-        width: '50vh',
-        padding: '60px',
+        height: '100vh',
+        width: '100vh',
+        padding: '20vh',
         backgroundColor: '#e3f2fd', // Colour: blue lighten-5
         textAlign: 'center',
-        borderRadius: '100vh',
+        borderRadius: '30vh',
         alignItems: 'center',
         justifyContent: 'center',
       }}
